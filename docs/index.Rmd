@@ -1,0 +1,152 @@
+---
+title: "Definitivo"
+output:
+  xaringan::moon_reader:
+    css: ["default","overrides.css"]
+    seal: false
+    nature:
+      slideNumberFormat: ''
+date: "2024-05-20"
+---
+
+class: center
+
+# <h1 class="custom-title">El cine en 7 gráficos</h1>
+
+![GIF](https://media1.tenor.com/m/EvLhGoY6_DkAAAAC/twitter-duck.gif)
+
+### Por Javier Muñoz y Jorge de Diego
+
+---
+class: middle,center
+
+# <h1 class="custom-title">RENTABILIDAD</h1>
+
+---
+class: middle,center
+
+<iframe title="Los beneficios del cine están en constante auge" aria-label="Interactive line chart" id="datawrapper-chart-bq6vZ" src="https://datawrapper.dwcdn.net/bq6vZ/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="404" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
+
+---
+
+class: middle,center
+
+<iframe title="La mayoría de películas son rentables" aria-label="Diagrama de dispersión" id="datawrapper-chart-K5gYV" src="https://datawrapper.dwcdn.net/K5gYV/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="453" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
+
+---
+class: middle,center
+
+<iframe title="La mayoría de películas son rentables" aria-label="Diagrama de dispersión" id="datawrapper-chart-kNJc8" src="https://datawrapper.dwcdn.net/kNJc8/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="453" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
+
+---
+class: middle,center
+
+<iframe title="La mayoría de películas son rentables" aria-label="Diagrama de dispersión" id="datawrapper-chart-cCuZO" src="https://datawrapper.dwcdn.net/cCuZO/7/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="453" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
+
+---
+class: middle,center
+
+<iframe title="La mayoría de películas son rentables" aria-label="Diagrama de dispersión" id="datawrapper-chart-skETN" src="https://datawrapper.dwcdn.net/skETN/11/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="453" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
+
+---
+class: middle,center
+
+![image](https://i.gyazo.com/06eea73dedf544f42052b496589e64bb.png)
+---
+class: middle, center
+
+<iframe title="Las películas con más beneficios tienen mejor puntuación" aria-label="Diagrama de dispersión" id="datawrapper-chart-FE9lv" src="https://datawrapper.dwcdn.net/FE9lv/10/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="445" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
+
+---
+class: middle, center
+
+<iframe title="Las películas con más beneficios tienen mejor puntuación" aria-label="Diagrama de dispersión" id="datawrapper-chart-IPwUn" src="https://datawrapper.dwcdn.net/IPwUn/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="444" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
+
+---
+class: middle, center
+
+<iframe title="Las películas (muy) largas son mejor valoradas" aria-label="Diagrama de dispersión" id="datawrapper-chart-B8WKa" src="https://datawrapper.dwcdn.net/B8WKa/7/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="563" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
+
+---
+class: middle, center
+
+# <h1 class="custom-title">PUNTUACIÓN</h1>
+
+---
+class: middle, center
+
+![image](https://i.gyazo.com/b5f2cb4cea3974367da73b4115087d24.png)
+
+---
+class: middle, center
+
+![image](https://i.gyazo.com/7e23bb750781f1296658c471ef45966c.png)
+
+---
+class: middle, center
+
+![image](https://i.gyazo.com/c447e85a685eac622b463f9a9b8ce297.png)
+---
+class: middle, center
+
+<iframe title="Las películas (muy) largas son mejor valoradas" aria-label="Diagrama de dispersión" id="datawrapper-chart-B8WKa" src="https://datawrapper.dwcdn.net/B8WKa/7/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="563" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
+
+---
+class: middle, center
+
+<iframe title="La duración de nuestras favoritas no ha cambiado mucho con el tiempo" aria-label="Gráfico de columnas" id="datawrapper-chart-u8l2A" src="https://datawrapper.dwcdn.net/u8l2A/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="440" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
+
+---
+class: middle, center
+
+# <h1 class="custom-title">GEOGRAFÍA</h1>
+
+---
+class: middle, center
+
+<iframe title="Se hace mucho más cine en Norte América y Europa" aria-label="Mapa" id="datawrapper-chart-nr8eb" src="https://datawrapper.dwcdn.net/nr8eb/11/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="661" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
+
+---
+class: middle, center
+
+# <h1 class="custom-title">BONUS TRACK</h1>
+
+---
+class: middle, center
+
+<iframe title="¿Cómo lo ha hecho tu director/a favorito/a?" aria-label="Tabla" id="datawrapper-chart-MQtWs" src="https://datawrapper.dwcdn.net/MQtWs/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="596" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
+
+---
+class: middle, center
+
+![GIF](https://i.gifer.com/1dTb.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
